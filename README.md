@@ -8,6 +8,6 @@ Data used to generate the figures and support the findings of manuscript entitle
 - MARS DAS channel map : mbari_cable_geometry_upload.csv
 - DAS earthquake "event" waveform data : https://drive.google.com/drive/folders/157ot0vAW_UXrAGDfOsamfXOZjo6boriG?usp=sharing
 - Satellite data retrieved from Wavewatch III (https://polar.ncep.noaa.gov/waves/viewer.shtml?-multi_1-)
-- Buoy wave height data retrieved from www.ndbc.noass.gov : buoy46042_wvht_m.txt
+- Buoy wave height data retrieved from www.ndbc.noass.gov : 2018_data_46042.txt
 - Buoy wave spectra data retrieved from www.ndbc.noass.gov : march_swd_data_46042.txt
 
