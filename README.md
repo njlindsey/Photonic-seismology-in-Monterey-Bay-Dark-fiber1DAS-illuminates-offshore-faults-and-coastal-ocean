@@ -3,11 +3,11 @@ Data used to generate the figures and support the findings of manuscript entitle
 
 - Bathymetry and faults from California Seafloor Mapping Program (https://pubs.usgs.gov/ds/781/)
 - Historical-Quarternary faults from USGS Fault & Fold Database (https://earthquake.usgs.gov/hazards/qfaults/)
-- MARS cable geometry : mbari_cable_geometry_upload.csv
+- MARS cable and DAS array geometry : mbari_cable_geometry_upload.csv
 - USGS earthquake catalog event retrieved from https://earthquake.usgs.gov/earthquakes/eventpage/nc72982551/executive
-- MARS DAS channel map : mbari_cable_geometry_upload.csv
-- DAS earthquake "event" waveform data : https://drive.google.com/drive/folders/157ot0vAW_UXrAGDfOsamfXOZjo6boriG?usp=sharing
+- DAS earthquake "event" waveform data ("event\*.mssed"): https://drive.google.com/drive/folders/157ot0vAW_UXrAGDfOsamfXOZjo6boriG?usp=sharing
 - Satellite data retrieved from Wavewatch III (https://polar.ncep.noaa.gov/waves/viewer.shtml?-multi_1-)
 - Buoy wave height data retrieved from www.ndbc.noass.gov : 2018_data_46042.txt
 - Buoy wave spectra data retrieved from www.ndbc.noass.gov : march_swd_data_46042.txt
+- Continuous DAS data for 10 - 17 km ("noise\*.mssed"): 
 
