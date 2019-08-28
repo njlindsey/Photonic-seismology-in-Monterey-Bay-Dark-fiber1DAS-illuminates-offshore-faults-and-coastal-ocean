@@ -9,5 +9,7 @@ Data used to generate the figures and support the findings of manuscript entitle
 - Satellite data retrieved from Wavewatch III (https://polar.ncep.noaa.gov/waves/viewer.shtml?-multi_1-)
 - Buoy wave height data retrieved from www.ndbc.noass.gov : 2018_data_46042.txt
 - Buoy wave spectra data retrieved from www.ndbc.noass.gov : march_swd_data_46042.txt
-- Continuous DAS data for 10 - 17 km ("noise\*.mssed"): 
+- Continuous DAS data for 10 - 17 km ("noise\*.mssed") : https://drive.google.com/drive/folders/157ot0vAW_UXrAGDfOsamfXOZjo6boriG?usp=sharing
+- Continuous DAS strain spectrogram for 2 km ("noiseMicroseism_1000_\*.csv") :
+https://drive.google.com/drive/folders/157ot0vAW_UXrAGDfOsamfXOZjo6boriG?usp=sharing
 
